@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sheils C, an aspiring software-engineer.
+## Hi there 👋 I'm Sheils C, a software-engineer!
 
 I have knowledge of HTML, CSS, JavaScript and React. I also have knowledge of Git for keeping track of my projects. 
 
